@@ -4,4 +4,6 @@
 
 # Sobre o projeto
 
-Para ver o projeto [clique aqui]()
+O projeto foi criado no intuito de treinar os conhecimentos adquiridos em html5, css3 e flexbox.
+
+Para ver o projeto [clique aqui](pablosilva23.github.io/card/).
