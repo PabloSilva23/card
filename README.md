@@ -14,7 +14,7 @@ Inspirada em uma landing page criada no [Dribbble](https://dribbble.com/shots).
 
 ## :hammer_and_wrench: Funcionalidade
 
-Mostrar, de forma visual, a construção de uma landing page voltada para compras da casa. 
+Mostrar, de forma visual, a construção de cards. 
 
 ## :man_technologist: Tecnologias
 
