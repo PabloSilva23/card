@@ -1,7 +1,8 @@
 <h1 align="center">Cards de contato</h1>
  
-![Card](https://user-images.githubusercontent.com/87915108/150845819-e405c20b-e155-46e7-9d1a-e8b250ed4534.gif)
-
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/87915108/150845819-e405c20b-e155-46e7-9d1a-e8b250ed4534.gif">
+</div>
 
 # Sobre 📖
 
