@@ -16,7 +16,7 @@ Para ver o projeto [clique aqui](https://pablosilva23.github.io/card/).
 Práticar os principais recursos de HTML e CSS. Entre eles:
 
 - Position.
-- Pseudo-classes
+- Pseudo-classes.
 - Responsividade.
 - Flexbox.
 
