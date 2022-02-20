@@ -28,7 +28,7 @@ Práticar os principais recursos de HTML e CSS. Entre eles:
 - Responsividade.
 - Flexbox.
 
-<h2 id="tecnologias">Tecnologias 👨‍💻<h2>
+<h2 id="tecnologias">Tecnologias 👨‍💻</h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Google Fonts](https://fonts.google.com/)
 * [Fontawesome](https://fontawesome.com/v5/search)
 
-<h2 id="layout">Layout 🖼️<h2>
+<h2 id="layout">Layout 🖼️</h2>
 
 - Retirada das páginas voltadas a HTML e CSS do [Instagram](https://www.instagram.com/).
 
