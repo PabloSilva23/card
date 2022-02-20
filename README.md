@@ -1,10 +1,17 @@
 <h1 align="center">Cards de contato</h1>
  
+ <p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>
+</p>
+ 
  <div align="center">
   <img src="https://user-images.githubusercontent.com/87915108/150845819-e405c20b-e155-46e7-9d1a-e8b250ed4534.gif">
 </div>
 
-# Sobre 📖
+<h1 id="sobre">Sobre 📖</h1>
 
 ### Descrição 📄
 
@@ -21,7 +28,7 @@ Práticar os principais recursos de HTML e CSS. Entre eles:
 - Responsividade.
 - Flexbox.
 
-## Tecnologias 👨‍💻
+<h2 id="tecnologias">Tecnologias 👨‍💻<h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -33,11 +40,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Google Fonts](https://fonts.google.com/)
 * [Fontawesome](https://fontawesome.com/v5/search)
 
-## Layout 🖼️
+<h2 id="layout">Layout 🖼️<h2>
 
 - Retirada das páginas voltadas a HTML e CSS do [Instagram](https://www.instagram.com/).
 
-## Funcionalidade 🛠️
+<h2 id="funcionalidades">Funcionalidade 🛠️</h2>
 
 - Nenhuma.
 
