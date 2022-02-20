@@ -15,9 +15,9 @@
 
 ### Descrição 📄
 
-Os cards feitos são para mostrar as minhas habilidades de html e css.
+- Os cards feitos são para mostrar as minhas habilidades de html e css.
 
-Para ver o projeto [clique aqui](https://pablosilva23.github.io/card/).
+- Para ver o projeto [clique aqui](https://pablosilva23.github.io/card/).
 
 ### Objetivo 🎯
 
